@@ -1,3 +1,5 @@
+You can find the API for this project here https://github.com/aloisio-costa/Tic-Tac-Toe-API. It is not necessary for it to run but it will not update the score.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
